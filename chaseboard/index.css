@@ -1,0 +1,91 @@
+.img1 {
+    background-attachment: fixed;
+    width: 451px;
+    height: 1534px;
+    background-image: url("./mk4.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img2 {
+    background-attachment: fixed;
+    background-image: url("./supra\ mk4.jpg");
+    width: 451px;
+    height: 1534px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img3 {
+    background-attachment: fixed;
+    width: 551px;
+    height: 1534px;
+    background-image: url(".//gtr\ r35.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.img4 {
+    background-attachment: fixed;
+    background-image: url(".//nissan\ gtr\ r-35.jpg");
+    width: 551px;
+    height: 1534px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.img5 {
+    background-attachment: fixed;
+    width: 551px;
+    height: 1534px;
+    background-image: url("./bmw.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.img6 {
+    background-attachment: fixed;
+    background-image: url("./bmw\ m5\ cs.jpg");
+    width: 551px;
+    height: 1534px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.img7 {
+    background-attachment: fixed;
+    width: 641px;
+    height: 1534px;
+    background-image: url("./gtr\ r34.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.img8 {
+    background-attachment: fixed;
+    background-image: url("./nissan\ gtr\ r-34.jpg");
+    width: 641px;
+    height: 1534px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.img9 {
+    background-attachment: fixed;
+    width: 641px;
+    height: 1534px;
+    background-image: url("./lambo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.img10 {
+    background-attachment: fixed;
+    background-image: url("./lamborgini.jpg");
+    width: 641px;
+    height: 1534px;
+
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    background-position: center;
+
+}
